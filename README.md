@@ -1,5 +1,5 @@
 # KingdomCraft
-A game made with JavaScript<br>
+A game made with  and LocalStorage<br>
 You can download this .zip file and see the code.<br>
 Usted puede descargar el archivo comprimido y ver el código del juego.<br>
 Vous pouvez télecharger le fichier á fin de voir le code et pouvoir commencer dans le monde de la programmation.<br>
