@@ -6,4 +6,8 @@ Vous pouvez télecharger le fichier á fin de voir le code et pouvoir commencer 
 
 Ce jeu a été fait avec JavaScript, Toastr et JQuery.<br>
 Este juego ha sido creado con Toastr, JavaScript y JQuery.<br>
-This game was made with JavaScript, Toastr & JQuery
+This game was made with JavaScript, Toastr & JQuery<br>
+
+Tanto el juego como el código está en español.<br>
+Le jeu et le code sont en espagnol.<br>
+The game and the code are in spanish.<br>
